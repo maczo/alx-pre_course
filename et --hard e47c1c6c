@@ -1,0 +1,93 @@
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 3fc2b35
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{1}: reset: moving to HEAD~0
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{2}: reset: moving to HEAD~1
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{3}: reset: moving to 3fc2b35
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{4}: reset: moving to e47c1c6c
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{5}: reset: moving to e47c1c6c
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{6}: reset: moving to 3fc2b35
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{7}: reset: moving to HEAD
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{8}: reset: moving to 3fc2b3588c7714959e488c3fdffa053d65fed707
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{9}: reset: moving to HEAD
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{10}: reset: moving to HEAD
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{11}: merge master: Fast-forward
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{12}: checkout: moving from master to update_script
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{13}: checkout: moving from master to master
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{14}: checkout: moving from update_script to master
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{15}: checkout: moving from master to update_script
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{16}: checkout: moving from update_script to master
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{17}: checkout: moving from master to update_script
+[33m3fc2b35[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{18}: commit (merge): Resolved Conflict
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{19}: reset: moving to HEAD
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{20}: checkout: moving from new_branch to master
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{21}: checkout: moving from e47c1c6cdf39c85626027a53079f390baacf00d2 to new_branch
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{22}: checkout: moving from master to remotes/origin/master
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{23}: checkout: moving from update_script to master
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{24}: checkout: moving from master to update_script
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{25}: checkout: moving from 323de67a05b9052c4572ffda6e9476c3e51dcc68 to master
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{26}: checkout: moving from master to origin/update_script
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{27}: checkout: moving from 323de67a05b9052c4572ffda6e9476c3e51dcc68 to master
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{28}: checkout: moving from master to origin/update_script
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{29}: reset: moving to HEAD
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{30}: reset: moving to HEAD
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{31}: checkout: moving from update_script to master
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{32}: reset: moving to HEAD
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{33}: checkout: moving from master to update_script
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{34}: reset: moving to HEAD
+[33me47c1c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mnew_branch[m[33m)[m HEAD@{35}: commit: How to be up to date in git
+[33mbe72049[m HEAD@{36}: pull origin master: Fast-forward
+[33m9005234[m HEAD@{37}: commit: Hot fix
+[33me02369f[m HEAD@{38}: rebase -i (finish): returning to refs/heads/master
+[33me02369f[m HEAD@{39}: rebase -i (reword): Starting to code today, so cool
+[33mea0d3f0[m HEAD@{40}: rebase -i (reword): Starting to code today,so cool!
+[33mf3f27a2[m HEAD@{41}: rebase -i (reword): Starting to code today, so cool
+[33m156df02[m HEAD@{42}: rebase -i: fast-forward
+[33m3975005[m HEAD@{43}: rebase -i (start): checkout HEAD~2
+[33m6255609[m HEAD@{44}: commit (amend): Starting to code today,so cool!
+[33m52f4e28[m HEAD@{45}: commit: Starting to code today,so cool
+[33m156df02[m HEAD@{46}: rebase -i (abort): updating HEAD
+[33m3975005[m HEAD@{47}: rebase -i: fast-forward
+[33m6f93f43[m HEAD@{48}: rebase -i (start): checkout HEAD~2
+[33m156df02[m HEAD@{49}: commit: Starting to code today,so cool
+[33m3975005[m HEAD@{50}: commit: Hot fix
+[33m6f93f43[m HEAD@{51}: checkout: moving from update_script to master
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{52}: rebase -i (finish): returning to refs/heads/update_script
+[33m323de67[m[33m ([m[1;31morigin/update_script[m[33m)[m HEAD@{53}: rebase -i (pick): My personal work
+[33m92c73c1[m HEAD@{54}: rebase -i (reword): Starting to code today,so cool
+[33m398532a[m HEAD@{55}: rebase -i: fast-forward
+[33m6d6da83[m HEAD@{56}: rebase -i (start): checkout HEAD~2
+[33ma462aea[m HEAD@{57}: checkout: moving from master to update_script
+[33m6f93f43[m HEAD@{58}: commit (amend): Starting to code today,so cool
+[33m398532a[m HEAD@{59}: checkout: moving from update_script to master
+[33ma462aea[m HEAD@{60}: commit: My personal work
+[33m398532a[m HEAD@{61}: checkout: moving from master to update_script
+[33m398532a[m HEAD@{62}: rebase -i (finish): returning to refs/heads/master
+[33m398532a[m HEAD@{63}: rebase -i (pick): Starting coding today,so cool
+[33m6d6da83[m HEAD@{64}: rebase -i (reword): Starting coding today,so cool
+[33m2d7d7d1[m HEAD@{65}: rebase -i (reword): New files
+[33m68fda60[m HEAD@{66}: rebase -i (reword): Starting coding today,so cool
+[33mc9af524[m HEAD@{67}: rebase -i (reword): be serious
+[33m344f989[m HEAD@{68}: rebase -i (reword): Starting coding today,so cool
+[33mf2f4dc1[m HEAD@{69}: rebase -i: fast-forward
+[33m03a9661[m HEAD@{70}: rebase -i (start): checkout HEAD~4
+[33m250d862[m HEAD@{71}: rebase -i (abort): updating HEAD
+[33m250d862[m HEAD@{72}: rebase -i (abort): updating HEAD
+[33mc336bcb[m HEAD@{73}: rebase -i (pick): Starting coding today,so cool
+[33m0e6e5fe[m HEAD@{74}: rebase -i (pick): New files
+[33mc949fe1[m HEAD@{75}: rebase -i (pick): be serious
+[33m1e7de94[m HEAD@{76}: rebase -i (pick): Testt
+[33m250d862[m HEAD@{77}: rebase -i (abort): updating HEAD
+[33m250d862[m HEAD@{78}: rebase -i (abort): updating HEAD
+[33md7252ed[m HEAD@{79}: rebase -i (pick): Starting coding today,so cool
+[33m4168369[m HEAD@{80}: rebase -i (pick): New files
+[33m250d862[m HEAD@{81}: rebase -i (finish): returning to refs/heads/master
+[33m250d862[m HEAD@{82}: rebase -i (start): checkout HEAD~3
+[33m250d862[m HEAD@{83}: rebase -i (abort): updating HEAD
+[33m250d862[m HEAD@{84}: rebase -i (abort): updating HEAD
+[33m250d862[m HEAD@{85}: commit (amend): Starting coding today,so cool
+[33m07ae667[m HEAD@{86}: commit (amend): Starting coding today,so cool
+[33md380579[m HEAD@{87}: commit (amend): Starting coding today,so cool
+[33me0dbfb7[m HEAD@{88}: commit: help oo
+[33mda9e53a[m HEAD@{89}: commit: New files
+[33md9c806b[m HEAD@{90}: commit: be serious
+[33mf2f4dc1[m HEAD@{91}: commit: Testt
+[33m03a9661[m HEAD@{92}: commit (initial): My first commit
